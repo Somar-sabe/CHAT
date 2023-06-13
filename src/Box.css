@@ -1,0 +1,26 @@
+.groub{
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    float: none;
+    padding: 2opx;
+    margin: 20px;
+    background-color: #0B0B45;
+    border-color: black;
+}
+
+.f{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.s{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
